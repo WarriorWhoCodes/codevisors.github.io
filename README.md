@@ -18,3 +18,7 @@ Join <a href="https://discord.gg/47vQN9Z3XB" target="_blank">Discord</a> to chat
 <li>
 <strong style="font-size: medium;" >ASG Talks</strong> Practice, share and learn public speaking skills in a safe and welcoming environment. Join this inclusive audio only call in our Discord, organised and managed by community members. where we discuss about our learnings, projects, collaboration, as well as our plans for next week.
 </li>
+<br>
+<li>
+Grow your professional network on LinkedIn by adding CodeVisors to your volunteer profile. 
+</li>  
