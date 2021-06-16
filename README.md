@@ -1,4 +1,4 @@
-# codevisors.github.io     ----site under construction----
+----site under construction----
 
 <li>
 Ankush always believed in giving back to the tech community with particular focus on creating and supporting opportunities for those wanting to start a career in tech, through diversity and inclusion programmes. This started out by mentoring and delivering workshops in association with tech for good charities, to creating and building the CodeVisors Community.
@@ -25,4 +25,8 @@ Grow your professional network on LinkedIn by adding CodeVisors to your voluntee
 <br>
 <li>
 Newsletter Featuring achievements by community members, suggested content and upcoming events.
+</li>
+<br>
+<li>
+we will be having set of monthly taks for all members of the community like writing blog post making videos giving intro and yep learning something and doing projects According to this I'll pic to participant randomly any time and send him/her swags
 </li>
