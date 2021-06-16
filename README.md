@@ -1,4 +1,4 @@
-# codevisors.github.io     ***site under construction****
+# codevisors.github.io     ----site under construction----
 
 <li>
 Ankush always believed in giving back to the tech community with particular focus on creating and supporting opportunities for those wanting to start a career in tech, through diversity and inclusion programmes. This started out by mentoring and delivering workshops in association with tech for good charities, to creating and building the CodeVisors Community.
