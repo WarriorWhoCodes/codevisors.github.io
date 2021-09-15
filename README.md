@@ -5,7 +5,7 @@ Ankush always believed in giving back to the tech community with particular focu
 </li>
 <br>
 <li>
-CodeVisors is a community and an organization driven by tech enthusiasts focusing on reciprocal collaboration between members of the tech community.  The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment. Grow your professional network on LinkedIn by adding EddieHub to your volunteer profile. 
+CodeVisors is a community and an organization driven by tech enthusiasts focusing on reciprocal collaboration between members of the tech community.  The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment. Grow your professional network on LinkedIn by adding CodeVisors to your volunteer profile. 
 </li>
 <br>
 <li>
